@@ -13,7 +13,7 @@ var guessCount = document.getElementById("guesses-left");
 var userChoice = document.getElementById("user-choice");
 var computerChoice = document.getElementById("computer-choice");
 
-var computerLetter = function (){
+var computerLetter = function () {
     RandomLetter = gameChoices[Math.floor(Math.random() * gameChoices.length)];
     console.log(RandomLetter);
 }
