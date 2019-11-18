@@ -5,7 +5,7 @@ This is a simple letter guessing game. Players will have nine chances to guess t
 Getting Started
 Follow the link below to test the game out for yourself!
 
-https://dlafrance99.github.io/Word-Guess-Game/
+https://dlafrance99.github.io/Psychic-Game/
 
 Prerequisites
 Since this is a simple javascript code, there will be nothing you need to download or install in order for this application to work. 
