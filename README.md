@@ -1,13 +1,3 @@
- 
-
-Built With
-
-
-
-Authors
-Devon LaFrance
-
-
 # Psychic-Game 
 This is a simple letter guessing game. Players will have nine chances to guess the letter that the program randomly generates. It will keep track of the wins and losses, throughout as many rounds as the player is willing to play. The game will alert the winner if they guess the letter that they came up with, or inform the loser that they lost after they've guessed nine different letters. 
 
