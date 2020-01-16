@@ -19,12 +19,14 @@ Follow the link below to test the game out for yourself!
 
 https://dlafrance99.github.io/Psychic-Game/
 
-![image of customer uses](https://raw.githubusercontent.com/dlafrance99/bamazon/master/images/Screen%20Shot%202019-10-10%20at%209.42.16%20PM.png)
+![general layout](https://raw.githubusercontent.com/dlafrance99/Psychic-Game/master/assets/images/Screen%20Shot%202020-01-16%20at%2011.34.48%20AM.png)
+![Winning Warning](https://raw.githubusercontent.com/dlafrance99/Psychic-Game/master/assets/images/Screen%20Shot%202020-01-16%20at%2011.35.01%20AM.png)
+![Loser Waring](https://raw.githubusercontent.com/dlafrance99/Psychic-Game/master/assets/images/Screen%20Shot%202020-01-16%20at%2011.35.11%20AM.png)
 
 
 ## Organization:
 
-As a simple javascript application, There are three files that alter
+As a simple javascript application, There are three files that alter the functionality of this application. Css to guide the layout and look of the app, game.js for the game logic, and index.html for formatting.
 
 ## Built With
 HTML, Javascript, and CSS
